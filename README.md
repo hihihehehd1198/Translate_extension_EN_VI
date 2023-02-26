@@ -12,7 +12,7 @@ step when u want to start project : <br>
 + loading unpacked  extension 
 + reopen your browser 
 
-# how to know this has working ? 
+# workflow 
 - when i selected the text :
 + your selected text has param , it being passed from current tab page <br>
   to new popup window page 
